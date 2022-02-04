@@ -1,13 +1,12 @@
 plantcv
 opencv-python<4
-numpy==1.15.1
-tensorflow==1.13.1
+numpy==1.16.1
 keras==2.1.0
-git+https://github.com/matterport/Mask_RCNN.git
+git+https://github.com/michellito/Mask_RCNN.git
 scipy
 Pillow
 matplotlib
 scikit-image
-h5py
+h5py==2.10.0
 imgaug
 IPython[all]

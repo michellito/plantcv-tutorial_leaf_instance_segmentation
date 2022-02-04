@@ -27,7 +27,7 @@ import copy
 import colorsys
 import matplotlib
 import matplotlib.pyplot as plt
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import datetime
 import numpy.matlib
 from plantcv.plantcv import fatal_error
